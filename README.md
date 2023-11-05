@@ -8,6 +8,7 @@ To revolutionize decision-making processes by leveraging quantum-inspired algori
 - [Technologies](#technologies) 
 - [Problems To Solve](#problems-to-solve) 
 - [Guide](#guide)
+- [Contributor Guide](#contributor-guide) 
   
 
 # Description 
@@ -340,3 +341,70 @@ Best Distance: 16
 The code above demonstrates the implementation of a quantum-inspired algorithm for solving the traveling salesman problem. It starts by initializing a random graph with distances between cities. Then, an initial population of candidate solutions is generated. The algorithm iteratively selects candidates for reproduction based on their fitness scores, performs crossover and mutation operations, and evaluates the fitness of the new generation. This process continues for a specified number of generations.
 
 The output of the code provides the best route found by the algorithm, represented as a sequence of city indices. Additionally, it displays the corresponding best distance traveled by the salesman. In the example output, the best route is [0, 2, 4, 1, 3], and the best distance is 16.
+
+# Contributor Guide 
+
+---
+
+## QuantumMind AI Repository Contributor Guide
+
+### Welcome Contributors!
+
+Thank you for your interest in contributing to QuantumMind AI. We appreciate your efforts in advancing this cutting-edge project. This guide will assist you in becoming a contributor.
+
+### How to Contribute
+
+1. **Fork the Repository**: Fork the QuantumMind AI repository to your GitHub account.
+
+2. **Clone the Repository**: Clone the forked repository to your local machine.
+
+   ```bash
+   git clone https://github.com/KOSASIH/QuantumMind-AI.git
+   ```
+
+3. **Create a Branch**: Create a new branch for your work.
+
+   ```bash
+   git checkout -b feature/your-feature
+   ```
+
+4. **Work on Your Contribution**: Make your changes or additions to the codebase, following the repository's guidelines and coding standards.
+
+5. **Commit Changes**: Once you've made your modifications, commit the changes to your branch.
+
+   ```bash
+   git add .
+   git commit -m "Description of your changes"
+   ```
+
+6. **Push Changes**: Push your branch to your GitHub repository.
+
+   ```bash
+   git push origin feature/your-feature
+   ```
+
+7. **Submit a Pull Request**: Go to the original QuantumMind AI repository on GitHub and submit a pull request, detailing the changes you've made and the problem they solve. Ensure your pull request follows the project's contribution guidelines.
+
+### Contribution Guidelines
+
+- Please adhere to the project's coding style and guidelines.
+- Ensure your commits are clear, concise, and have informative commit messages.
+- Tests and documentation are highly encouraged for any new feature or fix.
+- Pull requests will be reviewed by project maintainers before merging.
+
+### Code of Conduct
+
+We maintain a Code of Conduct to ensure a positive and inclusive environment. Please review and adhere to it in all interactions related to QuantumMind AI.
+
+### Get Help
+
+If you need any assistance or have questions, feel free to reach out by opening an issue or contacting the project maintainers.
+
+### Recognition
+
+All contributors are recognized and appreciated for their efforts in the project. Your name will be added to the contributors' list.
+
+Thank you for considering contributing to QuantumMind AI!
+
+
+

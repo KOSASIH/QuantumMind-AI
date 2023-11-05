@@ -3,7 +3,8 @@ To revolutionize decision-making processes by leveraging quantum-inspired algori
 
 # Contents 
 
-- [Description](description) 
+- [Description](#description)
+- [Guide](#guide) 
 
 # Description 
 
